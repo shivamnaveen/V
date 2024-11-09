@@ -99,9 +99,4 @@ body {
   height: 100%;
   object-fit: cover;
 }
-body {
-  background-image: url('../images/IMAGEBG.PNG');
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-}
+
