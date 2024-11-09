@@ -100,7 +100,7 @@ body {
   object-fit: cover;
 }
 body {
-  background-image: url('/Users/shivamnaveen/Desktop/drive-download-20241109T115149Z-001/images/IMAGEBG.PNG');
+  background-image: url('images/IMAGEBG.PNG');
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
